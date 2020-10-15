@@ -1,3 +1,5 @@
 *  Walkthrough for students to implement a decision tree from scratch in Python
 *  There are 2 versions: solutions and student (without solutions)
+*  Datasets used: titanic_training.csv, titanic_testing_data.csv
 *  Environment: Google Colab https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb
+  *  Further setup instructions inside the notebooks
